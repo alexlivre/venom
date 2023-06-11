@@ -1,108 +1,105 @@
 # 🕷Venom Bot🕸
 
-[![npm version](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
-![node](https://img.shields.io/node/v/venom-bot)
+[![versão npm](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
+![Node](https://img.shields.io/node/v/venom-bot)
 [![Downloads](https://img.shields.io/npm/dm/venom-bot.svg)](https://www.npmjs.com/package/venom-bot)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Average time to resolve an issue')
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Percentage of issues still open')
+[![Tempo médio para resolver problemas](http://isitmaintained.com/badge/resolution/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Tempo médio para resolver problemas')
+[![Percentual de problemas ainda abertos](http://isitmaintained.com/badge/open/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Percentual de problemas ainda abertos')
 <a href="https://discord.gg/qCJ95FVbzR"><img src="https://img.shields.io/discord/772885202351292426?color=blueviolet&label=discord&style=flat" /></a>
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/orkestral/venom/build.yml?branch=master)](https://github.com/orkestral/venom/actions)
-[![Lint Status](https://img.shields.io/github/actions/workflow/status/orkestral/venom/lint.yml?branch=master&label=lint)](https://github.com/orkestral/venom/actions)
+[![Status de construção](https://img.shields.io/github/actions/workflow/status/orkestral/venom/build.yml?branch=master)](https://github.com/orkestral/venom/actions)
+[![Status de Lint](https://img.shields.io/github/actions/workflow/status/orkestral/venom/lint.yml?branch=master&label=lint)](https://github.com/orkestral/venom/actions)
 [![release-it](https://img.shields.io/badge/%F0%9F%93%A6%F0%9F%9A%80-release--it-e10079.svg)](https://github.com/release-it/release-it)
 
-> Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
+> O Venom é um sistema de alto desempenho desenvolvido em JavaScript para criar um bot para o WhatsApp, com suporte para criar qualquer interação, como atendimento ao cliente, envio de mídia, reconhecimento de frases com base em inteligência artificial e todos os tipos de arquitetura de design para WhatsApp.
 
-## Get started fast and easy! Official API!
+## Comece rápido e fácil! API oficial!
 
 <p align="center">
-  <a href="https://docs.orkestral.io/venom">Full Documentation</a>
+  <a href="https://docs.orkestral.io/venom">Documentação completa</a>
 </p>
 
 <p>
-It's a high-performance alternative API to whatzapp, you can send, text messages, files, images, videos and more.
+É uma API de alternativa de alto desempenho para o Whatzapp, você pode enviar mensagens de texto, arquivos, imagens, vídeos e muito mais.
 </p>
 <p>
-Remember, the API was developed on a platform called RESTful Web services, providing interoperability between computer systems on the Internet.
+Lembre-se, a API foi desenvolvida em uma plataforma chamada Serviços da Web RESTful, fornecendo interoperabilidade entre sistemas de computador na Internet.
 </p>
 <p>
-It uses a set of well-defined operations that apply to all information resources: HTTP itself defines a small set of operations, the most important being POST, GET, PUT and DELETE.
+ Ele usa um conjunto de operações bem definidas que se aplicam a todos os recursos de informação: HTTP em si define um pequeno conjunto de operações, as mais importantes são POST, GET, PUT e DELETE.
 </p>
 <p>
-Use it in your favorite language like PHP, Python, C# and others. as long as your language is supported with the HTTP protocol, you will save time and money. you don't need to know how Venom works, we have the complete API documentation, in a professional way!
+ Use-a na sua linguagem preferida como PHP, Python, C# e outras. Contanto que sua linguagem seja suportada pelo protocolo HTTP, você economizará tempo e dinheiro. Você não precisa saber como o Venom funciona, temos a documentação completa da API, de uma forma profissional!
 </p>
 
-## Get our official API Venom ! Contact us!
+## Obtenha a nossa API oficial Venom! Fale conosco!
+<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=Quero%20ter%20acesso%20%C3%A0%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
-<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
-
-## Venom group support on Telegram
-
+## Grupo de suporte Venom no Telegram
 <a target="_blank" href="https://t.me/joinchat/G8wxNXidWBo1ZDYx" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
 
-## Venom group support on Discord
-
+## Grupo de suporte Venom no Discord
 <a target="_blank" href="https://discord.gg/uBRjk6vecs" target="_blank"><img title="Discord" height="110" width="375" src="https://s2.glbimg.com/GUbCgnBxJERAmuaYcrjBzTXD5ws=/0x0:800x272/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/d/N/zJs579QOGxKVRxfPILCA/discord-app.png"></a>
 
-## Meet the Superchats
+## Conheça os SuperChats
 
 <br>
 <a href='https://github.com/orkestral/superchats'><img src='https://github.com/orkestral/superchats/raw/main/img/superchats.png' height='60' alt='SuperChats' aria-label='https://github.com/orkestral/superchats' /></a>
 <br>
 <br>
 
-**SuperChats** is a premium library with unique features that control Whatsapp functions with socket.
-With Superchats you can build service bots, multiservice chats or any system that uses Whatsapp
+**SuperChats** é uma biblioteca premium com recursos exclusivos que controlam as funções do Whatsapp com socket. Com Superchats, você pode criar chatbots de serviço, chats multisserviços ou qualquer sistema que use o Whatsapp.
 
-**Superchats** is a premium version of **Venom**, with exclusive features and support for companies and developers worldwide
+**Superchats** é uma versão premium do **Venom**, com recursos exclusivos e suporte para empresas e desenvolvedores em todo o mundo.
+
 <br>
 <a href='https://github.com/orkestral/superchats'>https://github.com/orkestral/superchats</a>
 
-## Buy a license Superchats
+## Compre a licença do Superchats
 
-The value of the license is $50 monthly dollars, to acquire contact in whatsapp by clicking on the image below !!
+O valor da licença é de $50 dólares mensais, para comprar, entre em contato pelo Whatsapp clicando na imagem abaixo!!
 
-<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=Quero%20comprar%201%20licen%C3%A7a" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
-## 🕷🕷 Functions Venom🕷🕷
+## 🕷🕷 Funções do Venom🕷🕷
 
 |                                                               |     |
 | ------------------------------------------------------------- | --- |
-| 🚻 Automatic QR Refresh                                       | ✔   |
-| 📁 Send **text, image, video, audio and docs**                | ✔   |
-| 👥 Get **contacts, chats, groups, group members, Block List** | ✔   |
-| 📞 Send contacts                                              | ✔   |
-| Send Buttons                                                  | ✔   |
-| Send stickers                                                 | ✔   |
-| Send stickers GIF                                             | ✔   |
-| Multiple Sessions                                             | ✔   |
-| ⏩ Forward Messages                                           | ✔   |
-| 📥 Receive message                                            | ✔   |
-| 👤 insert user section                                        | ✔   |
-| 📍 Send location!!                                            | ✔   |
-| 🕸🕸 **and much more**                                          | ✔   |
+| 🚻 Atualização automática do QR                               | ✔   |
+| 📁 Envie **texto, imagem, vídeo, áudio e documentos**         | ✔   |
+| 👥 Obtenha **contatos, conversas, grupos, membros de grupo, lista de bloqueios** | ✔   |
+| 📞 Envie contatos                                              | ✔   |
+| Enviar botões                                                  | ✔   |
+| Enviar adesivos                                                | ✔   |
+| Enviar adesivos GIF                                            | ✔   |
+| Múltiplas sessões                                              | ✔   |
+| ⏩ Encaminhar mensagens                                        | ✔   |
+| 📥 Receber mensagem                                            | ✔   |
+| 👤 Inserir seção de usuário                                    | ✔   |
+| 📍 Enviar localização!!                                        | ✔   |
+| 🕸🕸 **e muito mais**                                           | ✔   |
 
-Documentation at https://orkestral.github.io/venom/index.html
+Documentação em https://orkestral.github.io/venom/index.html
 
-## Installation
+## Instalação
 
 ```bash
 > npm i --save venom-bot
 ```
 
-or for [Nightly releases](https://github.com/orkestral/venom/releases/tag/nightly):
+ou para [Releases Noturnas] (https://github.com/orkestral/venom/releases/tag/nightly):
 
 ```bash
 > npm i --save https://github.com/orkestral/venom/releases/download/nightly/venom-bot-nightly.tgz
 ```
 
-Installing the current repository "you can download the beta version from the current repository!"
+Instalando o repositório atual "você pode baixar a versão beta do repositório atual!"
 
 ```bash
 > npm i github:orkestral/venom
 ```
 
-## Getting started
+## Primeiros passos
 
 ```javascript
 // Supports ES6
@@ -134,11 +131,11 @@ function start(client) {
 }
 ```
 
-##### After executing `create()` function, **venom** will create an instance of whatsapp web. If you are not logged in, it will print a QR code in the terminal. Scan it with your phone and you are ready to go!
+##### Após executar a função `create()`, o **venom** criará uma instância do whatsapp web. Se você não estiver conectado, ele imprimirá um código QR no terminal. Digitalize-o com seu telefone e você estará pronto para começar!
 
-##### Venom will remember the session so there is no need to authenticate everytime.
+##### O Venom lembrará da sessão para que não haja necessidade de autenticação sempre.
 
-##### Multiples sessions can be created at the same time by pasing a session name to `create()` function:
+##### Várias sessões podem ser criadas ao mesmo tempo passando um nome de sessão para a função `create()`:
 
 ```javascript
 // Init sales whatsapp bot
@@ -150,97 +147,45 @@ venom.create('support').then((supportClient) => {...});
 
 <br>
 
-## Optional create parameters
+## Parâmetros opcionais de criação
 
-Venom `create()` method third parameter can have the following optional parameters:
+O terceiro parâmetro do método `create()` do Venom pode ter os seguintes parâmetros opcionais:
 
-If you are using the `Linux` server do not forget to pass the args `--user-agent`
-[Original parameters in browserArgs](https://github.com/orkestral/venom/blob/master/src/config/puppeteer.config.ts)
+Se você estiver usando o servidor `Linux`, não se esqueça de passar os argumentos `--user-agent`
+[Parâmetros originais em browserArgs](https://github.com/orkestral/venom/blob/master/src/config/puppeteer.config.ts)
 
 ```javascript
-const venom = require('venom-bot');
-
-venom
-  .create(
-    //session
-    'sessionName', //Pass the name of the client you want to start the bot
-    //catchQR
-    (base64Qrimg, asciiQR, attempts, urlCode) => {
-      console.log('Number of attempts to read the qrcode: ', attempts);
-      console.log('Terminal qrcode: ', asciiQR);
-      console.log('base64 image string qrcode: ', base64Qrimg);
-      console.log('urlCode (data-ref): ', urlCode);
-    },
-    // statusFind
-    (statusSession, session) => {
-      console.log('Status Session: ', statusSession); //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
-      //Create session wss return "serverClose" case server for close
-      console.log('Session name: ', session);
-    },
-    // options
-    {
-      folderNameToken: 'tokens', //folder name when saving tokens
-      mkdirFolderToken: '', //folder directory tokens, just inside the venom folder, example:  { mkdirFolderToken: '/node_modules', } //will save the tokens folder in the node_modules directory
-      headless: true, // you should no longer use boolean false or true, now use false, true or 'new' learn more https://developer.chrome.com/articles/new-headless/
-      devtools: false, // Open devtools by default
-      debug: false, // Opens a debug session
-      logQR: true, // Logs QR automatically in terminal
-      browserWS: '', // If u want to use browserWSEndpoint
-      browserArgs: [''], // Original parameters  ---Parameters to be added into the chrome browser instance
-      addBrowserArgs: [''], // Add broserArgs without overwriting the project's original
-      puppeteerOptions: {}, // Will be passed to puppeteer.launch
-      disableSpins: true, // Will disable Spinnies animation, useful for containers (docker) for a better log
-      disableWelcome: true, // Will disable the welcoming message which appears in the beginning
-      updatesLog: true, // Logs info updates automatically in terminal
-      autoClose: 60000, // Automatically closes the venom-bot only when scanning the QR code (default 60 seconds, if you want to turn it off, assign 0 or false)
-      createPathFileToken: false, // creates a folder when inserting an object in the client's browser, to work it is necessary to pass the parameters in the function create browserSessionToken
-      addProxy: [''], // Add proxy server exemple : [e1.p.webshare.io:01, e1.p.webshare.io:01]
-      userProxy: '', // Proxy login username
-      userPass: '' // Proxy password
-    },
-
-    // BrowserInstance
-    (browser, waPage) => {
-      console.log('Browser PID:', browser.process().pid);
-      waPage.screenshot({ path: 'screenshot.png' });
-    }
-  )
-  .then((client) => {
-    start(client);
-  })
-  .catch((erro) => {
-    console.log(erro);
-  });
+(bloco de código omitido-c16b59)
 ```
 
-## Callback Status Session
+## Status de retorno de sessão de callback
 
-Gets the return if the session is `isLogged` or `notLogged` or `browserClose` or `qrReadSuccess` or `qrReadFail` or `autocloseCalled` or `desconnectedMobile` or `deleteToken` or `chatsAvailable` or `deviceNotConnected` or `serverWssNotConnected` or `noOpenBrowser` or `initBrowser` or `openBrowser` or `connectBrowserWs` or `initWhatsapp` or `erroPageWhatsapp` or `successPageWhatsapp` or `waitForLogin` or `waitChat` or `successChat` or `Create session wss return "serverClose" case server for close`
+Retorna se a sessão está `isLogged` ou `notLogged` ou `browserClose` ou `qrReadSuccess` ou `qrReadFail` ou `autocloseCalled` ou  `desconnectedMobile` ou `deleteToken` ou `chatsAvailable` ou `deviceNotConnected` ou `serverWssNotConnected` ou `noOpenBrowser` or `initBrowser` or `openBrowser` or `connectBrowserWs` or `initWhatsapp` or `erroPageWhatsapp` or `successPageWhatsapp` or `waitForLogin` or `waitChat` or `successChat` or `Create session wss return "serverClose" case server for close`
 
-| Status                  | Condition                                                                                                                                                      |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `isLogged`              | When the user is already logged in to the browser                                                                                                              |
-| `notLogged`             | When the user is not connected to the browser, it is necessary to scan the QR code through the cell phone in the option WhatsApp Web                           |
-| `browserClose`          | If the browser is closed this parameter is returned                                                                                                            |
-| `qrReadSuccess`         | If the user is not logged in, the QR code is passed on the terminal a callback is returned. After the correct reading by cell phone this parameter is returned |
-| `qrReadFail`            | If the browser stops when the QR code scan is in progress, this parameter is returned                                                                          |
-| `autocloseCalled`       | The browser was closed using the autoClose command                                                                                                             |
-| `desconnectedMobile`    | Client has desconnected in to mobile                                                                                                                           |
-| `serverClose`           | Client has desconnected in to wss                                                                                                                              |
-| `deleteToken`           | If you pass true within the function                                                                                                                           |
-| `chatsAvailable`        | When Venom is connected to the chat list                                                                                                                       |
-| `deviceNotConnected`    | Chat not available because the phone is disconnected `(Trying to connect to the phone)`                                                                        |
-| `serverWssNotConnected` | The address wss was not found!                                                                                                                                 |
-| `noOpenBrowser`         | It was not found in the browser, or some command is missing in args                                                                                            |
-| `initBrowser`           | Starting the browser                                                                                                                                           |
-| `openBrowser`           | The browser has been successfully opened!                                                                                                                      |
-| `connectBrowserWs`      | Connection with BrowserWs successfully done!                                                                                                                   |
-| `initWhatsapp`          | Starting whatsapp!                                                                                                                                             |
-| `erroPageWhatsapp`      | Error accessing whatsapp page                                                                                                                                  |
-| `successPageWhatsapp`   | Page Whatsapp successfully accessed                                                                                                                            |
-| `waitForLogin`          | Waiting for login verification!                                                                                                                                |
-| `waitChat`              | Waiting for the chat to load                                                                                                                                   |
-| `successChat`           | Chat successfully loaded!                                                                                                                                      |
+| Status                  | Condição                                                                                                                                                          |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `isLogged`              | Quando o usuário já está conectado no navegador                                                                                                                 |
+| `notLogged`             | Quando o usuário não está conectado no navegador, é necessário escanear o código QR pelo celular na opção WhatsApp Web                                        |
+| `browserClose`          | Se o navegador for fechado, esse parâmetro é retornado                                                                                                           |
+| `qrReadSuccess`         | Se o usuário não estiver conectado, o código QR é mostrado no terminal e um retorno é passado. Após a leitura correta pelo celular, esse parâmetro é retornado    |
+| `qrReadFail`            | Se o navegador parar quando o código QR estiver em processo de escaneamento, este parâmetro será retornado                                                      |
+| `autocloseCalled`       | O navegador foi fechado usando o comando `autoClose`                                                                                                             |
+| `desconnectedMobile`    | O cliente desconectou-se em relação ao celular                                                                                                                    |
+| `serverClose`           | O cliente desconectou-se em relação ao wss                                                                                                                        |
+| `deleteToken`           | Se você passar verdadeiro dentro da função                                                                                                                        |
+| `chatsAvailable`        | Quando Venom está conectado à lista de chats                                                                                                                      |
+| `deviceNotConnected`    | Chat indisponível porque o celular não está conectado `(tentando se conectar ao celular)`                                                                        |
+| `serverWssNotConnected` | O endereço wss não foi encontrado!                                                                                                                                |
+| `noOpenBrowser`         | Não foi encontrado no navegador, ou algum comando está faltando em args                                                                                           |
+| `initBrowser`           | Iniciando o navegador                                                                                                                                              |
+| `openBrowser`           | O navegador foi aberto com sucesso!                                                                                                                               |
+| `connectBrowserWs`      | Conexão com o BrowserWs realizada com sucesso!                                                                                                                    |
+| `initWhatsapp`          | Iniciando o whatsapp!                                                                                                                                              |
+| `erroPageWhatsapp`      | Erro ao acessar a página do whatsapp                                                                                                                               |
+| `successPageWhatsapp`   | Página do Whatsapp acessada com sucesso.                                                                                                                           |
+| `waitForLogin`          | Aguardando verificação de login!                                                                                                                                   |
+| `waitChat`              | Aguardando o chat carregar                                                                                                                                        |
+| `successChat`           | Chat carregado com sucesso!                                                                                                                                        |
 
 ```javascript
 const venom = require('venom-bot');
@@ -259,10 +204,10 @@ venom
   });
 ```
 
-## Exporting QR Code
+## Exportando QR Code
 
-By default QR code will appear on the terminal. If you need to pass the QR
-somewhere else heres how:
+Por padrão, o código QR aparecerá no terminal. Se você precisar passar o QR
+para outro lugar, aqui está como:
 
 ```javascript
 const fs = require('fs');
@@ -305,10 +250,9 @@ venom
   });
 ```
 
-## Downloading Files
+## Baixando arquivos
 
-Puppeteer takes care of the file downloading. The decryption is being done as
-fast as possible (outruns native methods). Supports big files!
+Puppeteer se encarrega do download do arquivo. A descriptografia é feita o mais rápido possível (supera os métodos nativos). Suporta arquivos grandes!
 
 ```javascript
 import fs = require('fs');
@@ -327,15 +271,15 @@ client.onMessage( async (message) => {
 });
 ```
 
-## Basic Functions (usage)
+## Funções básicas (uso)
 
-Not every available function is listed, for further look, every function
-available can be found in [here](/src/api/layers) and
-[here](/src/lib/wapi/functions)
+Não estão listadas todas as funções disponíveis. Para mais informações, todas as funções
+disponíveis podem ser encontradas [aqui](/src/api/layers) e
+[aqui](/src/lib/wapi/functions)
 
-### Chatting
+### Conversando
 
-##### Here, `chatId` could be `<phoneNumber>@c.us` or `<phoneNumber>-<groupId>@g.us`
+##### Aqui, `chatId` pode ser `<phoneNumber>@c.us` ou `<phoneNumber>-<groupId>@g.us`
 
 ```javascript
 
@@ -641,7 +585,7 @@ await client.stopTyping('000000000000@c.us');
 await client.setChatState('000000000000@c.us', 0 | 1 | 2);
 ```
 
-## Retrieving Data
+## Recuperando dados
 
 ```javascript
 // Retrieve all chats
@@ -719,7 +663,7 @@ const chat = await client
   });
 ```
 
-## Group Functions
+## Funções de Grupo
 
 ```javascript
 // groupId or chatId: leaveGroup 52123123-323235@g.us
@@ -774,7 +718,7 @@ await client.getGroupInfoFromInviteLink(InviteCode);
 await client.joinGroup(InviteCode);
 ```
 
-## Profile Functions
+## Funções de Perfil
 
 ```javascript
 // Set client status
@@ -790,7 +734,7 @@ await client.setProfilePic('path/to/image.jpg');
 await client.getHostDevice();
 ```
 
-## Device Functions
+## Funções de dispositivo
 
 ```javascript
 // Disconnect from service
@@ -815,7 +759,7 @@ await client.isConnected();
 await client.getWAVersion();
 ```
 
-## Events
+## Eventos
 
 ```javascript
 
@@ -873,7 +817,7 @@ client.onAddedToGroup(chatEvent => {
 });
 ```
 
-## Other
+## Outros
 
 ```javascript
 //Check if there is chat
@@ -965,9 +909,9 @@ await client.unblockContact('000000000000@c.us');
 
 ## Misc
 
-There are some tricks for a better usage of venom.
+Existem alguns truques para um melhor uso do venom.
 
-#### Keep session alive:
+#### Mantenha a sessão ativa:
 
 ```javascript
 // function to detect conflits and change status
@@ -1015,10 +959,9 @@ client.onIncomingCall(async (call) => {
 });
 ```
 
-#### Closing (saving) sessions
+#### Fechando (salvando) sessões
 
-Close the session properly to ensure the session is saved for the next time you
-log in (So it won't ask for QR scan again). So instead of CTRL+C,
+Feche a sessão corretamente para garantir que a sessão seja salva para a próxima vez que você fizer login (para não pedir outra verificação QR). Então, em vez do CTRL + C,
 
 ```javascript
 // Catch ctrl+C
@@ -1034,20 +977,20 @@ try {
 }
 ```
 
-### Auto closing unsynced sessions
+### Fechando automaticamente sessões não sincronizadas
 
-The auto close is enabled by default and the timeout is set to 60 sec.
-Receives the time in milliseconds to countdown until paired.
+O fechamento automático é ativado por padrão e o tempo limite é definido como 60 segundos.
+Recebe o tempo em milissegundos para fazer a contagem regressiva até ser pareado.
 
-Use "autoClose: 0 | false" to disable auto closing.
+Use "autoClose: 0 | false" para desativar o fechamento automático.
 
-### Debugging
+### Depuração
 
-## Development
+## Desenvolvimento
 
-Building venom is really simple altough it contains 3 main projects inside
+A construção do venom é realmente simples, embora contenha 3 projetos principais dentro
 
-1. Wapi project
+1. Projeto Wapi
 
 ```bash
 > npm run build:wapi
@@ -1066,18 +1009,17 @@ Building venom is really simple altough it contains 3 main projects inside
 > npm run build:venom
 ```
 
-To build the entire project just run
+Para construir todo o projeto, execute
 
 ```bash
 > npm run build
 ```
 
-## Maintainers
+## Mantenedores
 
-Maintainers are needed, I cannot keep with all the updates by myself. If you are
-interested please open a Pull Request.
+Mantenedores são necessários, não consigo acompanhar todas as atualizações sozinho. Se você estiver interessado, abra um Pull Request.
 
-## Contributing
+## Contribuindo
 
-Pull requests are welcome. For major changes, please open an issue first to
-discuss what you would like to change.
+Pull requests são bem-vindos. Para mudanças importantes, por favor, abra uma issue primeiro para
+discutir o que você gostaria de alterar.
